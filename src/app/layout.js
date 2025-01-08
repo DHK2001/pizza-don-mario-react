@@ -22,8 +22,12 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <header>
-          <img className="logo" src="/images/pizza-mario-logo.png" alt="Pizzas Don Mario" />
-          <Navbar/>
+          <img
+            className="logo"
+            src="/images/pizza-mario-logo.png"
+            alt="Pizzas Don Mario"
+          />
+          <Navbar />
         </header>
         <main>{children}</main>
         <footer>

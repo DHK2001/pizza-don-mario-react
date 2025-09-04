@@ -1,7 +1,7 @@
 # Pizza Don Mario (React)
 
 This project is a **visual mockup of a pizzeria website** built using **React**.  
-It is not a fully functional application, but rather a practice project created to learn the basics of React and compare the experience with building the same type of site using only HTML and CSS (see [DHK2001.github.io]([https://dhk2001.github.io/examples/nav-bar-example/index.html](https://dhk2001.github.io/examples/nav-bar-example/index.html))).
+It is not a fully functional application, but rather a practice project created to learn the basics of React and compare the experience with building the same type of site using only HTML and CSS (see [DHK2001.github.io](https://dhk2001.github.io)).
 
 ---
 

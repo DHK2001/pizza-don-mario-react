@@ -1,3 +1,52 @@
+# Pizza Don Mario (React)
+
+This project is a **visual mockup of a pizzeria website** built using **React**.  
+It is not a fully functional application, but rather a practice project created to learn the basics of React and compare the experience with building the same type of site using only HTML and CSS (see [DHK2001.github.io](https://dhk2001.github.io)).
+
+---
+
+## 📖 About the Project
+
+The goal of this project was to practice **React** and understand how components, JSX, and a structured React app can improve development compared to plain HTML and CSS.
+
+This site simulates the look of a real pizzeria website and includes the following sections:
+
+- **Home** → Hero section with featured promotions.  
+- **Menu** → List of pizzas and other items with prices.  
+- **About** → Information about the pizzeria.  
+- **Contact** → Basic contact page layout.  
+
+⚠️ Note: The project is **purely visual**. There is no backend, state management, or dynamic logic implemented. It is intended only as a **front-end practice exercise**.
+
+---
+
+## 🛠️ Built With
+
+- [React](https://react.dev/) (with JSX)
+- [Next.js](https://nextjs.org/) (for structure and deployment)
+- [CSS3] for styling
+
+---
+
+## 🚀 Features
+
+- Component-based layout built with React.  
+- Responsive design practice with CSS.  
+- Pages simulating a real-world business website.  
+- Simple navigation between sections.  
+- Comparison project to a previous version built with plain HTML & CSS.  
+
+---
+
+## 🎯 Purpose
+
+This repository serves as:
+1. A **learning exercise** for practicing React basics.  
+2. A **visual showcase** of how a small business website could look.  
+3. A **comparison** to the original static HTML & CSS version to highlight the advantages of component-based development.  
+---
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
